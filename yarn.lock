@@ -10436,10 +10436,10 @@ strapi-plugin-graphql@^3.6.3:
     pluralize "^8.0.0"
     strapi-utils "3.6.3"
 
-strapi-plugin-restaurant-settings@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/strapi-plugin-restaurant-settings/-/strapi-plugin-restaurant-settings-1.0.2.tgz#bb2a1abcfa47a9dbfc8ae4f8493fcd82f5636e20"
-  integrity sha512-VFgB6mevs3FEnsh6d+jWCeYre3t984bJuDe2zyImJzRvGCWHOO6rin3NgkU8ofpAHSexpywmunm6tgpFTnsNcw==
+strapi-plugin-restaurant-settings@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-restaurant-settings/-/strapi-plugin-restaurant-settings-1.0.3.tgz#680099318594abbb6b41f97d0068253d0b64c66f"
+  integrity sha512-i7rMDksjraDgdkTYMX9rLRwgTGiZY44gQdfEzsNS998eZsCMcNRrqRMh2I1Z9pG1pUsI0q6XjNwh1Mcnpa+pFg==
   dependencies:
     "@buffetjs/core" "^3.3.6"
     axios "^0.21.0"
