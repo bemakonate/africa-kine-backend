@@ -13,7 +13,6 @@
   "dependencies": {
     "css-loader": "^5.2.6",
     "knex": "<0.20.0",
-    "pg": "^8.6.0",
     "pg-connection-string": "^2.5.0",
     "sqlite3": "^5.0.2",
     "strapi": "^3.6.3",
