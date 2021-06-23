@@ -25,8 +25,7 @@
     "strapi-plugin-email": "^3.6.3",
     "strapi-plugin-graphql": "^3.6.3",
     "strapi-plugin-restaurant-settings": "^1.0.6",
-    "strapi-plugin-upload": "^3.6.3",
-    "strapi-plugin-users-permissions": "^3.6.3",
+    "strapi-plugin-users-permissions": "^3.6.5",
     "strapi-utils": "^3.6.3",
     "style-loader": "^2.0.0"
   },
