@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_default_categories",
+  "info": {
+    "name": "category",
+    "icon": "atlas",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "plugin": "restaurant-settings",
+      "model": "category"
+    },
+    "title": {
+      "type": "string"
+    },
+    "tagline": {
+      "type": "string"
+    }
+  }
+}

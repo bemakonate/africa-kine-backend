@@ -34,6 +34,9 @@
     },
     "yelpURL": {
       "type": "string"
+    },
+    "twitterURL": {
+      "type": "string"
     }
   }
 }
