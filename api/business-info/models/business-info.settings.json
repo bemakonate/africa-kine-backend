@@ -37,6 +37,29 @@
     },
     "twitterURL": {
       "type": "string"
+    },
+    "companyImage": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "servesCuisine": {
+      "type": "string"
+    },
+    "priceRange": {
+      "type": "enumeration",
+      "enum": [
+        "Cheap",
+        "Moderate",
+        "Expensive",
+        "Luxury"
+      ],
+      "default": "Moderate"
     }
   }
 }
